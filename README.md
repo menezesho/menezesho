@@ -1,5 +1,5 @@
-### Hi, I'm Henrique Menezes, student of Information Systems!
-📚 I’m currently learning C#.
+### Olá, me chamo Henrique Menezes e sou estudante de Sistemas de Informação e desenvolvedor de software na Prefeitura Municipal de Passos!
+📚 Atualmente me aprofundando em Flutter e C#.
 <div align="center">
   <a href="https://github.com/menezesho">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesho&layout=compact&langs_count=7&theme=dracula"/>
