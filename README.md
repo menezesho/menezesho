@@ -1,18 +1,18 @@
-<h2 align="center">Olá, sou o Henrique! 👋🏽</h2>
+<h1 align="left">Olá, sou o Henrique! 👋🏽</h1>
 
 ###
 
-<p align="center">Sou estudante de Sistemas de Informação e desenvolvedor de software na Prefeitura Municipal de Passos!<br>Atualmente estou me aprofundando em C#, Python e Metodologia ágil 📚</p>
+<p align="left">Sou estudante de Sistemas de Informação e desenvolvedor de software na Prefeitura Municipal de Passos!<br>Atualmente estou me aprofundando em C#, Python e Metodologia ágil 📚</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=menezesho&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/menezesho" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
