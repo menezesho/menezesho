@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá+Mundo!🌎;Meu+nome+é+Henrique+Menezes.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Henrique+Menezes.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
   
   ### Sou estudante de Sistemas de Informação e desenvolvedor de software na Prefeitura Municipal de Passos!<br>Atualmente estou me aprofundando em C#, Python e metodologia ágil! 📚
 
