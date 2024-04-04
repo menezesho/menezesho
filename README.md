@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Henrique+Menezes.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
   
-  ### Estudante de Sistemas de Informação e<br>desenvolvedor full stack na Prefeitura de Passos<br>e na R&M Consultoria e Projetos 👨🏻‍💻
+  Estudante de Sistemas de Informação e desenvolvedor full stack<br>na Prefeitura de Passos e na R&M Consultoria e Projetos 👨🏻‍💻
 
   ###
 
