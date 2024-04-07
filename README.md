@@ -5,8 +5,8 @@
   Estudante de Sistemas de Informação e desenvolvedor full stack<br>na Prefeitura de Passos e na R&M Consultoria e Projetos 👨🏻‍💻
 
   ###
-
-  <img width="200px" src="https://skillicons.dev/icons?i=cpp,cs,dotnet,dart,flutter,html,css,js,nodejs,nestjs,py,git,mysql,notion,postman" />
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,dart,flutter,py,html,css,js,nodejs,express,nestjs,prisma,mysql,docker,git,github,notion,figma,netlify,ps,vscode,visualstudio&perline=12)](https://skillicons.dev)
 
   ###
 
