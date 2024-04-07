@@ -6,7 +6,7 @@
 
   ###
 
-  <img width="400px" src="https://skillicons.dev/icons?i=cs,dotnet,flutter,html,css,js,nodejs,py,git" />
+  <img width="200px" src="https://skillicons.dev/icons?i=cpp,cs,dotnet,dart,flutter,html,css,js,nodejs,nestjs,py,git,mysql,notion,postman" />
 
   ###
 
