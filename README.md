@@ -2,11 +2,11 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Henrique+Menezes.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
   
-  Estudante de Sistemas de Informação e desenvolvedor full stack<br>na Prefeitura de Passos e na R&M Consultoria e Projetos 👨🏻‍💻
+  Estudante de Sistemas de Informação, desenvolvedor full stack<br>na Prefeitura de Passos e desenvolvedor mobile na R&M Consultoria e Projetos 👨🏻‍💻
 
   ###
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,dart,flutter,py,html,css,js,nodejs,express,nestjs,prisma,mysql,docker,git,github,notion,figma,netlify,ps,vscode,visualstudio&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,py,html,css,js,nodejs,express,nestjs,prisma,mysql,docker,git,github,notion,figma&perline=9)](https://skillicons.dev)
 
   ###
 
