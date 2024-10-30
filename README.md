@@ -6,7 +6,7 @@
 
   ###
   
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nestjs,mysql,mongodb,docker,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,py,docker,github,mysql,mongodb&perline=5)](https://skillicons.dev)
 
   ###
 
