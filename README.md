@@ -6,7 +6,7 @@
 
   ###
   
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,py,html,css,js,nodejs,express,nestjs,prisma,mysql,docker,git,github,notion,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,py,nodejs,reactnative,nestjs,mysql,docker,git,github,notion,figma&perline=9)](https://skillicons.dev)
 
   ###
 
