@@ -2,9 +2,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&random=false&width=500&lines=Olá,+meu+nome+é+Henrique+Menezes.;Seja+bem-vindo+ao+meu+repositório!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
   
-  📚 Sistemas de Informação | UEMG
+  📚 B.Sc. in Information Systems | UEMG
   
-  👨🏻‍💻 Desenvolvedor full stack | Tarken
+  👨🏻‍💻 Software Engineer | Tarken
 
   ###
 
