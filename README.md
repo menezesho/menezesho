@@ -11,6 +11,6 @@
 
 ___
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,mui,nestjs,cs,py,flutter,docker,github,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,flutter)](https://skillicons.dev)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=menezesho&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="205" alt="languages graph"/> -->
